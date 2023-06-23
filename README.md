@@ -4,7 +4,8 @@ App concept created with [Flutter](https://flutter.dev/) inspired by [Tasty Burg
 ## About
 The app was created to simulate all the system behind the inspiration video. There's no code on the backend or another web service. The app is all contained in this repository. The model's classes were created to better represent an official development, the repositories classes are simulating a web request. I'm using BLOC pattern as an architectural pattern.
 
-## The App
+## The App![burger1](https://github.com/ambs17/BurgerPoint/assets/93775407/d61b5605-b216-4f7c-8070-9209d727b17f)
+
 The GIF below shows this current app runnig.
 
 ![App Running](./docs/app_runnig.gif)
